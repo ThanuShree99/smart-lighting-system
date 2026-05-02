@@ -5,8 +5,10 @@ An intelligent and energy-efficient smart lighting system that automatically adj
 ## Overview
 
 This project implements an automated lighting system using:
-
-LDR (Light Dependent Resistor), PIR Sensor, ESP32, LED (PWM controlled) 
+- LDR (Light Dependent Resistor) → detects ambient light
+- PIR Sensor → detects human motion
+- ESP32 → processes data and controls lighting
+- LED (PWM controlled) → acts as the lighting output
 
 The system ensures lights turn ON only when required, reducing unnecessary energy consumption.
 
