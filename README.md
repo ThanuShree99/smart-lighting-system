@@ -11,11 +11,11 @@ LDR (Light Dependent Resistor), PIR Sensor, ESP32, LED (PWM controlled)
 The system ensures lights turn ON only when required, reducing unnecessary energy consumption.
 
 ## Features
-Automatic brightness control based on ambient light
-Motion detection using PIR sensor
-Energy-efficient operation
-PWM-based smooth brightness adjustment
-Real-time response to environmental changes
+- Automatic brightness control based on ambient light
+- Motion detection using PIR sensor
+- Energy-efficient operation
+- PWM-based smooth brightness adjustment
+- Real-time response to environmental changes
 
 ## Components Required
 
@@ -31,8 +31,8 @@ Real-time response to environmental changes
 
 
 ## Software Used
-Arduino IDE
-ESP32 Board Package
+- Arduino IDE
+- ESP32 Board Package
 
 ## Code
 Available in /code folder
@@ -43,11 +43,11 @@ Available in /code folder
 
 
 ## Future Improvements
- Mobile app control
- Cloud data logging
- IoT dashboard integration
- Energy consumption monitoring
- AI-based smart lighting prediction
+ - Mobile app control
+ - Cloud data logging
+ - IoT dashboard integration
+ - Energy consumption monitoring
+ - AI-based smart lighting prediction
 
 ## Author
 
