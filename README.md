@@ -2,7 +2,7 @@
 
 An intelligent and energy-efficient smart lighting system that automatically adjusts brightness based on ambient light intensity and human presence using an ESP32 microcontroller.
 
-# Overview
+## Overview
 
 This project implements an automated lighting system using:
 
@@ -10,14 +10,14 @@ LDR (Light Dependent Resistor), PIR Sensor, ESP32, LED (PWM controlled)
 
 The system ensures lights turn ON only when required, reducing unnecessary energy consumption.
 
-# Features
+## Features
 Automatic brightness control based on ambient light
 Motion detection using PIR sensor
 Energy-efficient operation
 PWM-based smooth brightness adjustment
 Real-time response to environmental changes
 
-# Components Required
+## Components Required
 
 | Component               | Quantity    |
 | ----------------------- | ----------- |
@@ -30,17 +30,21 @@ Real-time response to environmental changes
 | Jumper Wires            | As required |
 
 
-# Software Used
-Arduino IDE, ESP32 Board Package
+## Software Used
+Arduino IDE
+ESP32 Board Package
 
-# Future Improvements
+## Code
+Available in /code folder
+
+## Future Improvements
  Mobile app control
  Cloud data logging
  IoT dashboard integration
  Energy consumption monitoring
  AI-based smart lighting prediction
 
-# Author
+## Author
 
 Thanu Shree N
 Electronics and Communication Engineering
