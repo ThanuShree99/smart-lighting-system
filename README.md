@@ -37,6 +37,11 @@ ESP32 Board Package
 ## Code
 Available in /code folder
 
+## Project Output
+![Smart Lighting Setup 1](images/smart_lighting1.jpeg)
+![Smart Lighting Setup 2](images/smart_lighting2.jpeg)
+
+
 ## Future Improvements
  Mobile app control
  Cloud data logging
